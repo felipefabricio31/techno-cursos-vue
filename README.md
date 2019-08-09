@@ -1,6 +1,5 @@
 # techno-cursos
 
-#modelo site
 ![alt text](https://raw.githubusercontent.com/felipefabricio31/techno-cursos-vue/master/src/assets/Thecno-cursos.JPG)
 
 
