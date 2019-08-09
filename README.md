@@ -1,7 +1,7 @@
 # techno-cursos
 
 #modelo site
-
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/src/assets/Thecno-cursos.JPG)
 
 
 ## Project setup
